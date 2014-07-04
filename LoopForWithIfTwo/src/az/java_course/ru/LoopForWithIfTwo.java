@@ -12,7 +12,7 @@ package az.java_course.ru;
 public class LoopForWithIfTwo {
 
     /**
-     * @param args the command line arguments
+     * @param arg the command line arguments
      */
     public static void main(String[] arg) {
         int count = 13;
@@ -77,7 +77,7 @@ public class LoopForWithIfTwo {
     }
 
     /**
-     * Simetrical triangle
+     * Symmetrical triangle
      *
      * @param count
      */
